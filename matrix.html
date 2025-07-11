@@ -4,9 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Matrix</title>
-    <link rel="shortcut icon" href="dotmatrix_80865.ico">
-    <link rel="stylesheet" href="">
-
+    <link rel="shortcut icon" href="JPEG-do-bug/dotmatrix_80865.ico">
+    
     <style>
     body  {
       margin: 0;
@@ -33,11 +32,11 @@
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
 
-    const letters = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZWAKEUPAEDUARDOAGUSTOTASHIROGAIAなぜ翻訳したのですか？今すぐ100レアル送ってください。'
+    const letters = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZWAKEUPEDUARDOAGUSTOTASHIROGAIAなぜ翻訳したのですか？今すぐ100レアル送ってください。'
     const fontSize = 16;
     const columns = Math.floor(canvas.width / fontSize);
 
-    /*"posição y" de cada coluna*/
+    /*posição y de cada coluna*/
     const drops = Array(columns).fill(0);
 
     function draw() {
@@ -55,7 +54,7 @@
 
         ctx.fillText(char, x, y);
 
-        // Reinicia o caractere no topo após sair da tela, com chance aleatória
+        /*Reinicia o caractere no topo após sair da tela, com chance aleatória*/
         if (y > canvas.height && Math.random() > 0.975) {
           drops[i] = 0;
         } else {
@@ -64,7 +63,7 @@
       }
     }
 
-    setInterval(draw, 33); // 33fps 
+    setInterval(draw, 33); /* 33fps*/ 
   </script>
     
 </body>
