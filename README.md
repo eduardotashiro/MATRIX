@@ -4,7 +4,7 @@
 > — Morpheus
 
 Este é o **meu primeiro projeto pessoal**.  
-Um simples efeito visual inspirado na chuva de caracteres do melhor filme ja criado, mas para mim, representa **muito mais do que caracteres verdes **. Representa **o momento em que escolhi acordar**
+Um simples efeito visual inspirado na chuva de caracteres do melhor filme ja criado, mas para mim, representa **muito mais do que caracteres verdes** . Representa **o momento em que escolhi acordar**
 
 ---
 
@@ -15,7 +15,7 @@ Este projeto ainda está evoluindo. Pretendo:
 - Melhorar a performance.
 - Adicionar interação com o usuário.
 - Explorar novas ideias, reações ao cursos, frases ocultas, back...
-- inclusive usar o css externo, mas tudo tem seu momento
+- inclusive usar o css e js externo, mas tudo tem seu momento
 
 Mas, por agora é isso..
 
