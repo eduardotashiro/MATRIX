@@ -15,7 +15,6 @@ Este projeto ainda está evoluindo. Pretendo:
 - Melhorar a performance.
 - Adicionar interação com o usuário.
 - Explorar novas ideias, reações ao cursos, frases ocultas, back...
-- inclusive usar o css e js externo, mas tudo tem seu momento
 
 Mas, por agora é isso..
 
@@ -33,7 +32,7 @@ Mas, por agora é isso..
 ## Demonstração
 
 
-![net ta ruim](JPEG-do-bug/9zxzgi.gif)
+![net ta ruim](JPEG-do-bug/a01gdq.gif)
 
 
 ---
