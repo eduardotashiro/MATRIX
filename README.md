@@ -46,6 +46,13 @@ Mesmo que seja simples. Mesmo que ninguém veja.
 
 ---
 
+## Como usar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/eduardotashiro/MATRIX
+
 ## Até logo... ou até a próxima linha de código.
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
