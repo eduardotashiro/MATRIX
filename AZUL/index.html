@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Carregando...</title>
+  <script>
+    let i = 0;
+    const titles = [
+      "Você é livre",
+      "Não questione",
+      "Modo seguro",
+      "Você pertence aqui",
+      "Desative a dúvida",
+      "Confie no sistema",     
+    ];
+    setInterval(() => {
+      document.title = titles[i % titles.length];
+      i++;
+    }, 3000);
+  </script>
+</head>
+<body>
+  
+</body>
+</html>
