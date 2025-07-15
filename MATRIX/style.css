@@ -21,7 +21,7 @@
       transform: translate(-50%, -50%);
       z-index: 1;
       display: flex;
-      gap: 1rem;
+      
     }
 
     button {
@@ -32,17 +32,22 @@
       border-radius: 5px;
       cursor: pointer;
       font-weight: bold;
+      padding: 50px;
     }
 
 
     .btn1{
       background-color: blue;
+      margin: 30px;
     }
 
     .btn2{
       background-color: #0f0;
+      margin: 30px;
     }
 
     .btn3{
       background-color: red ;
+      margin: 30px;
     }
+    
