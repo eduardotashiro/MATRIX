@@ -20,34 +20,57 @@
       left: 50%;
       transform: translate(-50%, -50%);
       z-index: 1;
-      display: flex;
-      
+      display: flex;      
     }
 
     button {
-      padding: 10px 20px;
-      font-size: 16px;
+      font-size: 15px;
       color: black;
       border: none;
-      border-radius: 5px;
       cursor: pointer;
-      font-weight: bold;
-      padding: 50px;
+      font-weight:bolder
     }
 
 
     .btn1{
       background-color: blue;
       margin: 30px;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+
     }
 
     .btn2{
       background-color: #0f0;
       margin: 30px;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
     }
 
     .btn3{
       background-color: red ;
       margin: 30px;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
     }
     
+    .tipo1{
+      background-color: rgb(40, 26, 170);
+      color: rgb(255, 255, 255);
+      border-radius: 5px;
+    }
+
+    .tipo2{
+      background-color: rgb(26, 153, 79);
+      color: rgb(255, 255, 255);
+      border-radius: 5px;
+    }
+
+    .tipo3{
+      background-color: rgb(129, 5, 5);
+      color: rgb(255, 255, 255);
+      border-radius: 05px;
+    }
