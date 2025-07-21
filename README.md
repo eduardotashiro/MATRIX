@@ -48,7 +48,7 @@ Mesmo que seja simples. Mesmo que ninguém veja.
 
 ## Você pode ver o projeto online aqui:  
 
-=> [Clique aqui !!](https://eduardotashiro.github.io/MATRIX/)
+=> [Clique aqui !!](https://eduardotashiro.github.io/MATRIX/) ainda n ta pronto :(
 
 ## Até logo... ou até a próxima linha de código.
 
