@@ -46,14 +46,11 @@ Mesmo que seja simples. Mesmo que ninguém veja.
 
 ---
 
-## Como usar
+## Você pode ver o projeto online aqui:  
 
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/eduardotashiro/MATRIX
+=> [Clique aqui !!](https://eduardotashiro.github.io/MATRIX/)
 
 ## Até logo... ou até a próxima linha de código.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
